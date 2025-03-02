@@ -20,10 +20,9 @@ A game inspired by the classic **Hangman**, where the player must guess a word c
    ```sh
    git clone https://github.com/BisyB/ImpiccatoTeacher.git
    ```
-2. **Download the ZIP file**:
-   - Go to the GitHub page.
-   - Click on "Code" > "Download ZIP".
-   - Extract the file to your preferred directory.
+2. **Download the ZIP file**:  
+   Click the link below to download the latest version of the app:  
+   👉 [Download Hangman Game](https://github.com/BisyB/Maze/archive/refs/heads/main.zip)
 
 ### 📂 Uploading Your Language Vocabulary
 1. Find a vocabulary file for the language you are interested in.
