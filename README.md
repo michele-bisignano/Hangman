@@ -22,7 +22,7 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/BisyB/ImpiccatoTeacher.git
+   git clone https://github.com/BisyB/Hangman.git
    ```
 2. **Download the ZIP file**:\
    Click the link below to download the latest version of the app:\
