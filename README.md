@@ -20,13 +20,10 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 
 ### 📝 Download
 
-1. **Clone the repository**:
+- **Clone the repository**:
    ```sh
    git clone https://github.com/BisyB/Hangman.git
    ```
-2. **Download the ZIP file**:\
-   Click the link below to download the latest version of the app:\
-   👉 [Download Hangman Game](https://github.com/BisyB/Hangman/archive/refs/heads/main.zip)
 
 ### 📂 Uploading Your Language Vocabulary
 (This step can be skipped if you want to play in English. For other languages, follow the instructions below.)
