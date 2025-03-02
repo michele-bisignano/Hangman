@@ -17,7 +17,7 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 ## 🚀 How to Use the Project
 
 ### 📝 Download
-1. **Clone the repository**:
+- **Clone the repository**:
    ```sh
    git clone https://github.com/BisyB/Hangman.git
    ```
