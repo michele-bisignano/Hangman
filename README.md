@@ -21,10 +21,7 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
    ```sh
    git clone https://github.com/BisyB/Hangman.git
    ```
-2. **Download the ZIP file**:  
-   Click the link below to download the latest version of the app:  
-   👉 [Download Hangman Game](https://github.com/BisyB/Hangman/archive/refs/heads/main.zip)
-   
+      
 ### 📂 Uploading Your Language Vocabulary
 1. Find a vocabulary file for the language you are interested in.
 2. Save the file in the `Database` folder or another designated location.
