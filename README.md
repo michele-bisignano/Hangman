@@ -1,10 +1,10 @@
-# 🎮 Hangman
+# 🧩 Hangman 🔠
 
 ![Logo](logo.ico)
 
 A game inspired by the classic **Hangman** game, where the player must guess a word chosen by the computer or vice versa.
 
-## 📌 Game Modes
+## 🎮 Game Modes
 
 - **Mode 1**: The computer selects a word, and the player must guess it within 10 mistakes.
 - **Mode 2**: The player selects a word, and the computer attempts to guess it using an optimized algorithm.
