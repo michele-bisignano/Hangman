@@ -1,6 +1,6 @@
 # 🎮 Hangman
 
-![Logo](path/to/logo.ico)
+![Logo](logo.ico)
 
 A game inspired by the classic **Hangman**, where the player must guess a word chosen by the computer or vice versa.
 
