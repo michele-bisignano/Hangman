@@ -10,12 +10,13 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 
 ## 📌 Main Features
 
-### 📂 Database Management
+### 📎 Database Management
 - Supports loading custom databases to play in different languages, based on **.txt vocabulary files**.
+- **By default, the vocabulary in English is already loaded.**
 
 ## 🚀 How to Use the Project
 
-### 📥 Download
+### 📝 Download
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/BisyB/ImpiccatoTeacher.git
@@ -51,3 +52,5 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 
 ## 📌 Tags
 #CSharp #Unity #DigitalAssessment
+
+
