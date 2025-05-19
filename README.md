@@ -22,7 +22,7 @@ A game inspired by the classic **Hangman** game, where the player must guess a w
 
 - **Clone the repository**:
    ```sh
-   git clone https://github.com/BisyB/Hangman.git
+   git clone https://github.com/michele-bisignano/Hangman.git
    ```
 
 ### 📂 Uploading Your Language Vocabulary
